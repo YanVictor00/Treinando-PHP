@@ -13,7 +13,7 @@ echo "Olá mudo!  \u{1F30E}";
 phpinfo();
 
 
-//Reprocessamento ,  Soma de itens, configuração.
+//Reprocessamento ,  Soma de itens, c
         date_default_timezone_set("America/Sao_Paulo");
         echo "Hoje é dia " . date("d/M/Y");
         echo " e a hora atual é " . date("g:i:s");

@@ -5,7 +5,7 @@ $_ = "Olá, mundo";
 print('_')
 
 
-//mais um olá
+//mais um olá com emoji
 echo "Olá mudo!  \u{1F30E}";
 
 
